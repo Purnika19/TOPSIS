@@ -1,4 +1,4 @@
-#  TOPSIS Web Service
+#  Smart Decision Ranking using TOPSIS
 
 **View it here** : https://topsis-19.streamlit.app/
 
