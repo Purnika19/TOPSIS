@@ -66,6 +66,23 @@ The TOPSIS algorithm follows these steps:
 
 ---
   
+**Python Package Publication**
+
+In addition to the web application, this project has been converted into a Python package implementing the TOPSIS algorithm. The package provides a command-line interface (CLI) that allows users to apply TOPSIS directly on CSV files without using the web interface.
+
+**Link** : https://pypi.org/project/topsis-purnika-102303412/1.0.2/
+
+**The package was:**
+
+* Structured following standard Python packaging guidelines
+
+* Tested locally using pip install .
+
+* Uploaded to TestPyPI for validation
+
+* Uploaded to PyPI for public access
+
+---
 
 **Result Table (Output)**
 
