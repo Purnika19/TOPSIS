@@ -64,4 +64,16 @@ The TOPSIS algorithm follows these steps:
 - Remaining columns: Numeric criteria values
 - Weights and impacts must match the number of criteria
 
-Example:
+**Result Table (Output)**
+
+1.After applying the TOPSIS algorithm, the system generates a ranked result table and provides it as a downloadable CSV file.
+
+2.The output file contains all original columns along with the following additional fields:
+
+3.Topsis Score
+Represents the relative closeness of each alternative to the ideal solution.
+The value lies between 0 and 1, where a higher score indicates a better alternative.
+
+4.Rank
+Alternatives are ranked in descending order based on the TOPSIS score.
+Rank 1 corresponds to the best alternative.
