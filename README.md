@@ -1,4 +1,6 @@
-# 📊 TOPSIS Web Service
+#  TOPSIS Web Service
+
+**View it here** : https://topsis-19.streamlit.app/
 
 A web-based implementation of the **TOPSIS (Technique for Order Preference by Similarity to Ideal Solution)** method using **Python and Streamlit**.  
 This project allows users to rank alternatives from a CSV file by applying custom weights and impacts in an interactive and visually appealing interface.
@@ -7,7 +9,7 @@ This project allows users to rank alternatives from a CSV file by applying custo
 
 ---
 
-## 🔍 What is TOPSIS?
+##  What is TOPSIS?
 
 TOPSIS is a **Multi-Criteria Decision Making (MCDM)** technique used to rank alternatives based on their closeness to an ideal solution.  
 The best alternative is the one that has:
@@ -16,7 +18,7 @@ The best alternative is the one that has:
 
 ---
 
-## 🧠 TOPSIS Methodology
+##  TOPSIS Methodology
 
 The TOPSIS algorithm follows these steps:
 
@@ -44,7 +46,7 @@ The TOPSIS algorithm follows these steps:
 
 ---
 
-## ⚙️ Features
+##  Features
 
 - Upload CSV file with decision data
 - Custom weights and impacts input
@@ -55,7 +57,7 @@ The TOPSIS algorithm follows these steps:
 
 ---
 
-## 📁 Input Format
+##  Input Format
 
 - CSV file must contain **at least 3 columns**
 - First column: Alternative names (non-numeric)
